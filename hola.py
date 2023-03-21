@@ -23,3 +23,4 @@ print("La moda es:", moda(a))
 
 desviacion = (sum((x - promedio) ** 2 for x in a) / (len(a) - 1)) ** 0.5
 print("La desviación es: [", desviacion,"]")
+#hola
