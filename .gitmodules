@@ -1,0 +1,3 @@
+[submodule "clonados"]
+	path = clonados
+	url = https://github.com/lgbanuelos/artprog
